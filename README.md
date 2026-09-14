@@ -12,3 +12,7 @@ Linguagens e tecnologias: HTML, CSS, JavaScript e C
 Testes e API: Cypress e Postman
 Gestão e acompanhamento: Azure DevOps e Jira
 Qualidade de software: testes funcionais, identificação e documentação de bugs e validação de aplicações
+
+
+Rafael Ribeiro dos Santos
+Sou estudante do 2º período de Engenharia de Software, com conhecimentos básicos em HTML e Python. Atualmente, trabalho como Jovem Aprendiz no setor financeiro e busco desenvolver meus conhecimentos e crescer profissionalmente na área de tecnologia.
