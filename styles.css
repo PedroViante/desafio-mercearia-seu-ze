@@ -11,6 +11,16 @@ header {
   background-color: #f5c773;
   padding: 20px;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.logo {
+  height: 80px;
+  width: auto;
+  object-fit: contain;
 }
 
 h1 {
