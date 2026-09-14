@@ -16,3 +16,6 @@ Qualidade de software: testes funcionais, identificação e documentação de bu
 
 Rafael Ribeiro dos Santos
 Sou estudante do 2º período de Engenharia de Software, com conhecimentos básicos em HTML e Python. Atualmente, trabalho como Jovem Aprendiz no setor financeiro e busco desenvolver meus conhecimentos e crescer profissionalmente na área de tecnologia.
+
+Pedro Taddei Viante:
+Sou estudante do 2° período de Engenharia de Software, sei o básico de HTML, CSS, Phyton e lógica de programação. Sei inglês fluentemente, sou proativo, tenho um bom relacionamento interpessoal, tenho vontade de aprender e descobrir novas coisas, sou proativo, e busco conhecer e crescer cada vez mais na área de tecnologia.
